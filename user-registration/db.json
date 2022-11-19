@@ -1,11 +1,67 @@
 {
-    "user":[
-        {
-            "name":"Ravi Kishan",
-            "email":"ravi123@gmail.com",
-            "phone":"9145214521",
-            "password":"123@ravikishan"
-        }
-    ]
-
+  "user": [
+    {
+      "id": 0,
+      "name": "Ravi Kishan",
+      "email": "ravi123@gmail.com",
+      "phone": "9145214521",
+      "password": "123@ravikishan"
+    },
+    {
+      "id": 68941,
+      "name": "Satyajit",
+      "email": "123satya@test.com",
+      "phone": "9145236987",
+      "password": "1234@test"
+    },
+    {
+      "id": 37297,
+      "name": "Satyajit",
+      "email": "satyajit.sahu@small.com",
+      "phone": "9329019299",
+      "password": "sadfqw12"
+    },
+    {
+      "id": 650533,
+      "name": "Saty",
+      "email": "user@mail.com",
+      "phone": "1203654789",
+      "password": "test1234"
+    },
+    {
+      "id": 63782,
+      "name": "sutirtha",
+      "email": "sutirtha.roy@actyv.com",
+      "phone": "9887766551",
+      "password": "sutir@123"
+    },
+    {
+      "id": 327398,
+      "name": "Sutirtha",
+      "email": "sutirtha12@actyv.com",
+      "phone": "9887766551",
+      "password": "Welcome@123"
+    },
+    {
+      "id": 318594,
+      "name": "Sutirtha",
+      "email": "sutirtha@actyv",
+      "phone": "1234567890",
+      "password": "Welcome@123"
+    },
+    {
+      "id": 757896,
+      "name": "Sutirtha",
+      "email": "sutirtha.roy.12@actyv.com",
+      "phone": "9887766551",
+      "password": "Welcome@123"
+    },
+    {
+      "id": 512568,
+      "name": "snsil",
+      "email": "snail.live@slime.com",
+      "phone": "1236547898",
+      "password": "123451212"
+    }
+  ]
 }

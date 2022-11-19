@@ -1,10 +1,15 @@
 import React from 'react'
 
-const UserList = () => {
+const UserList = ({item}) => {
+    
   return (
-    <div>
-        
-    </div>
+    <>
+    <td>{item.id}</td>
+    <td>{item.name}</td>
+    <td>{item.email}</td>
+    <td>{item.phone}</td>
+    </>
+    
   )
 }
 
