@@ -38,12 +38,11 @@ const Register = () => {
         }else if(password.length < 8 || cnfPassword < 8){
             alert('passwords should be atleast of eight characters');
         }
-        else if(emailWords.length<3){
+        else if(emailWords.length<3 || emailWords[emailWords.length-1]==="com" || emailWords[emailWords.length-1]==="in" || emailWords[emailWords.length-1]==="net" || emailWords[emailWords.length-1]==="ai"){
             alert(" input vaild email")
         }else if(password!==cnfPassword){
             alert("passwords dont match please re enter the passwords");
         }
-        
     }
   return (
     <div className='form-container'>
